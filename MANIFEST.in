@@ -1,0 +1,4 @@
+include REQUIREMENTS
+include README.rst
+include HISTORY.rst
+include LICENSE
